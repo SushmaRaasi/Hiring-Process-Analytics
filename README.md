@@ -75,8 +75,14 @@ Outlier  → in salary column → 200000
 <p>I have conducted an analysis to understand the gender distribution within the hiring process. The dataset revealed that a total of <b>2563 males and 1856 females</b> were hired across different positions and departments within the company. This analysis provides valuable insights into the company's efforts to maintain a diverse workforce. The visualization below displays the distribution of hires based on gender.</p>
 
 [click here to see Analysis](https://docs.google.com/spreadsheets/d/1UwhgNZaB-htAHYSA_ethlQzCJArCw6c6Lt6QiWyL3vk/edit#gid=269852243)
+
 <br>
-images
+
+![1 1](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/294db206-cb7d-4c4c-83fb-1d9d6d1f164a)
+
+<br>
+
+![1 2](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/06721595-d48c-45ae-a4f1-cd1c8e7f640f)
 
 #### Salary Analysis
 <p>Turning our attention to the financial aspect of the hiring process, I analyzed the offered salaries across various positions and departments within the company. The data revealed an <b>important metric:</b> the <b>average salary </b>offered by the company is approximately <b> $49,982.72.</b> This figure serves as a valuable benchmark, reflecting the company's compensation practices and the value placed on attracting top-tier talent.
@@ -86,8 +92,12 @@ images
 </p>
 
 [click here to see Analysis](https://docs.google.com/spreadsheets/d/1UwhgNZaB-htAHYSA_ethlQzCJArCw6c6Lt6QiWyL3vk/edit#gid=930750584)
+
 <br>
-image
+
+![2](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/7365cde0-9784-44ed-b51d-63db700ed11d)
+
+<br>
 
 #### Salary Distribution
 <p>Creating class intervals for salary distribution is a crucial step in understanding the distribution patterns of offered salaries within the company. Class intervals help organize the salary data into meaningful ranges, making it easier to visualize and analyze the distribution. </p>
@@ -95,7 +105,9 @@ image
 <p>Here's how the approach for creating class intervals:</p>
 <ol>
   <li><i>Determine Data Range:</i></li>
-  image
+    
+ ![3 1](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/797135ad-a48a-4a80-a32d-a57c48d9c4d2)
+
   <li><i>Decide on Number of Intervals:</i> 10
 </li>
   <li><i>Calculate Interval Width:</i> by dividing the range of salaries by the chosen number of intervals i.e.,39990
@@ -103,7 +115,9 @@ image
   <li><i>Create Intervals:</i> Start with the minimum salary as the starting point for the first interval. Then, add the interval width to create subsequent intervals.
 </li>
   <li><i>Present Intervals:</i></li>
-  image
+  
+![3 2](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/72640995-e875-4da9-be8f-a842c13462fb)
+
 </ol>
 
 [click here to see the Analysis](https://docs.google.com/spreadsheets/d/1UwhgNZaB-htAHYSA_ethlQzCJArCw6c6Lt6QiWyL3vk/edit#gid=1563834555)
@@ -111,14 +125,23 @@ image
 #### Departmental Analysis
 <p>By conducting a thorough examination of the workforce distribution across departments, I uncovered valuable insights that shed light on the company's organizational structure. Notably, our analysis reveals that the <b>Operations Department</b> boasts the highest representation, with a significant <b>39.2%</b> of the total workforce.
 </p>
-image
+
+![4](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/cd2c0bc2-09f4-4872-a7cc-c2acb8402bea)
+
 <br>
 
 [click here to see the Analysis](https://docs.google.com/spreadsheets/d/1UwhgNZaB-htAHYSA_ethlQzCJArCw6c6Lt6QiWyL3vk/edit#gid=586570988)
 
 #### Position Tier Analysis
 <p>The different position tiers within the company, This will help us to understand the distribution of positions across different tiers.</p>
-images
+
+![5 1](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/f33bf35a-8aa7-4d1b-b336-0dbc64d1629c)
+
+<br>
+
+![5 2](https://github.com/SushmaRaasi/Hiring-Process-Analytics/assets/79751402/adaa4997-150f-4a30-b200-4ecc1ddfa0fc)
+
+<br>
 
 [click here to see the Analysis](https://docs.google.com/spreadsheets/d/1UwhgNZaB-htAHYSA_ethlQzCJArCw6c6Lt6QiWyL3vk/edit#gid=1099816181)
 
